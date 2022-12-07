@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b17a0b2f-5a97-4597-bf90-3763a2ce2f35": {
+      "ProjectGuid": "b17a0b2f-5a97-4597-bf90-3763a2ce2f35",
+      "DisplayName": "ReflectionTask",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

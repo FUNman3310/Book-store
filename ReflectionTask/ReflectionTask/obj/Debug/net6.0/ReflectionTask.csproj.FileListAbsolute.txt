@@ -1,0 +1,5 @@
+C:\Users\Fuad\Desktop\C#\ReflectionTask\ReflectionTask\obj\Debug\net6.0\ReflectionTask.csproj.AssemblyReference.cache
+C:\Users\Fuad\Desktop\C#\ReflectionTask\ReflectionTask\obj\Debug\net6.0\ReflectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fuad\Desktop\C#\ReflectionTask\ReflectionTask\obj\Debug\net6.0\ReflectionTask.AssemblyInfoInputs.cache
+C:\Users\Fuad\Desktop\C#\ReflectionTask\ReflectionTask\obj\Debug\net6.0\ReflectionTask.AssemblyInfo.cs
+C:\Users\Fuad\Desktop\C#\ReflectionTask\ReflectionTask\obj\Debug\net6.0\ReflectionTask.csproj.CoreCompileInputs.cache
